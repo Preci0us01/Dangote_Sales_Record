@@ -18,6 +18,9 @@
 The **Dangote Cement Record 2023** report provides a high-level and granular operational analysis of sales performance, production costs, regional distribution, and delivery logistics across Nigeria. It tracks core 
 financial  growth, evaluates product and regional market penetration, monitor payment preferences, and identifies key order fulfilment bottlenecks.
 
+[dashboard](https://github.com/user-attachments/assets/b637c734-3337-4e96-b149-061654e74be4)
+
+[KPI](https://github.com/user-attachments/assets/3ae19924-8e04-4fd7-8a29-47df086c61dc)
 
 ## Data Source
 
